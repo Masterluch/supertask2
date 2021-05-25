@@ -1,4 +1,4 @@
-#include <BIN.hpp>
+#include <area.hpp>
 #include <gtest/gtest.h>
 #include <iostream>
 
